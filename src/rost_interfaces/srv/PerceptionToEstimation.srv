@@ -1,0 +1,5 @@
+# my_pkg/srv/ProcessImage.srv
+sensor_msgs/Image image
+---
+bool success
+string message

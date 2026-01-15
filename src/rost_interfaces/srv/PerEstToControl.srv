@@ -1,0 +1,7 @@
+# Request: empty (server uses internal perception+estimation)
+---
+int32 seq
+bool success
+string message
+rost_interfaces/Float64Array[] trash_list
+rost_interfaces/Float64Array[] bin_list
